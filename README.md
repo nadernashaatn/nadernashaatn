@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nadernashaatn
 - 👀 I’m interested in Devops, AWS, Azure, K8s, Jenkins, CICD
-- 🌱 I’m currently learning Python
 
 
 
